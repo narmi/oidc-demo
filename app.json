@@ -1,0 +1,12 @@
+{
+  "name": "oidc-demo",
+  "displayName": "oidc-demo",
+  "expo": {
+    "name": "oidc-demo",
+    "slug": "oidc-demo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
